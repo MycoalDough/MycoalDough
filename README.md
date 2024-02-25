@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖AI/ML Engineer for 2 years<br>🏫High School 2025<br>🌱Learning more ML/DL frameworks
+🤖AI/ML Engineer for 3 years<br>🏫High School 2025<br>🌱Learning more ML/DL frameworks
 
 
 ## 🌐 Socials:
