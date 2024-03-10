@@ -1,5 +1,5 @@
-# Michael Do
-Aspiring Machine Learning Developer
+<h1 style="text-align: center;">Michael Do</h1>
+<h4 style="text-align: center;">Aspiring Machine Learning Engineer</h4>
 
 
 # 💻 Tech Stack:
